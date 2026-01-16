@@ -33,7 +33,7 @@ It supports subscriber management, campaign creation and sending, and real-time 
 ## Demo Video
 
 [//]: # (Insert your demo video link or embed here)
-**[Demo Video Placeholder]**
+![Project Demo](projectgif.gif)
 
 ---
 ## Project Structure
